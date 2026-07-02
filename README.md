@@ -88,7 +88,6 @@ Iris-Neural-Network-Classifier/
 │
 ├── notebooks/
 ├── images/
-├── model/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
